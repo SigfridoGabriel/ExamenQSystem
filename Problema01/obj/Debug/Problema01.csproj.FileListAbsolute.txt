@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\bin\Debug\Problema01.exe.config
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\bin\Debug\Problema01.exe
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\bin\Debug\Problema01.pdb
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\obj\Debug\Problema01.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\obj\Debug\Problema01.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\obj\Debug\Problema01.exe
+C:\Users\usuario\Desktop\Examen\Examen\Problema01\obj\Debug\Problema01.pdb
